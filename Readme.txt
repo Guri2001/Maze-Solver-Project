@@ -8,7 +8,7 @@ Installation: There are no installations required to run the program.
 
 Prerequistist: None
 
-Usuage: Run the menu.py executable or the menu.py python file to use the program.
+Usuage: Run the Maze_Visualiser executable or the menu.py python file to use the program.
 The Program needs to be run again once you have viewed a particular algorithm it automatically closes once you press the quit button. 
 Simply run the .exe or python file to run the program again. 
 

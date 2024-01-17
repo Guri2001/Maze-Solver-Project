@@ -196,9 +196,9 @@ def open_Astar_window():
         l = textLabel(my_maze, "Length of shortest Path:", len(path))
         title = textLabel(my_maze, "A* Algorithm: ")
         solve_time = textLabel(my_maze, "Time taken for Algorithm to solve:", float(elapsed_time))
-        #my_maze.quit_button()
+        my_maze.quit_button()
 
-        #my_maze.create_counter_label()
+        my_maze.create_counter_label()
         my_maze.run()
 
 
@@ -339,9 +339,8 @@ def open_bfs_window():
         solve_time = textLabel(my_maze, "Time taken to solve", float(elapsed_time))
 
         
-       # my_maze.quit_button()
-        
-        #my_maze.create_counter_label()
+        my_maze.quit_button()
+        my_maze.create_counter_label()
         my_maze.run()
 
 
@@ -482,8 +481,8 @@ def open_wallFollower_window():
         #l = textLabel(m, "Path Followed is: ", str(path))
         solve_time = textLabel(m, "Time taken to solve", float(elapsed_time))
         print(path)
-        #m.quit_button()
-        #m.create_counter_label()
+        m.quit_button()
+        m.create_counter_label()
         m.run()
 
 

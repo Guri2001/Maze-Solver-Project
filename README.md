@@ -59,16 +59,14 @@ sizes but it may take a very long time to solve and generate large mazes. This a
 
 <h2>How to use: </h2>
 <ol>
-  <li>
-    </lo><p> Select an Algorithm</p>
-  </li>
-  <li></li><p>Input Rows, Columns</p>
+  <li></lo><p> Select an Algorithm</p></li>
+  <li><p>Input Rows, Columns</p></li>
   <li><p>Enter the number of solutions you would like the maze to have in the Loop: </p></li>
   <li><p>Select Speed (using the slider)</p></li>
   <li><p>Select desired them (Dark or Light)</p></li>
   <li><p>Select Pattern (Horizontal, Vertical or Random Pattern of Maze)</p></li>
   <li><p>Select if you want to save the maze of not (Yes or No)</p></li>
-  <li><p> Load a previously generated maze using the Load Maze Button</p></li>
+  <li><p>Load a previously generated maze using the Load Maze Button</p></li>
   <li><p>Submit to generate and solve the generated maze.</p></li>
   <li><p>Back to go back to the previous window</p></li>
     

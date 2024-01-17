@@ -55,7 +55,9 @@ sizes but it may take a very long time to solve and generate large mazes. This a
 
 <p>To run the program: Navigate to the cloned directory and run</p>
 <code>python menu.py</code>
+<p></p>
 <p>or RUN: </p>
+<p></p>
 <code>Maze_Visualiser.exe</code>
 
 <h2>How to use: </h2>

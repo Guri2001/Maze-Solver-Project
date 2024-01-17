@@ -1,4 +1,4 @@
-Title: Maze Visualiser and Solver
+<h1>Title: Maze Visualiser and Solver</h1>
 
 Description: This project is a maze generator and visualiser program which has been built upon the pymaze library which has MIT licence access to modify the program.
 It generates and solves the maze the user can pick different algorithms to explore and enter various information to use the program. The user can generate any number of maze

@@ -51,7 +51,7 @@ sizes but it may take a very long time to solve and generate large mazes. This a
 
 <h2> Gettting Started</h2>
 
-<code>git clone [(https://github.com/Guri2001/Maze-Solver-Project.git)]</code>
+<code>git clone [https://github.com/Guri2001/Maze-Solver-Project.git]</code>
 
 <p>To run the program: Navigate to the cloned directory and run</p>
 <code>python maze_solver.py</code>
